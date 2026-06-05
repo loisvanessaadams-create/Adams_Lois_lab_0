@@ -1,0 +1,15 @@
+PS C:\Users\Larbi\Desktop\Intro to AI\Intro-Ai\ai-labs> (Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned) ; (& "c:\Users\Larbi\Desktop\Intro to AI\Intro-Ai\ai-labs\.venv\Scripts\Activate.ps1")
+(ai-labs) PS C:\Users\Larbi\Desktop\Intro to AI\Intro-Ai\ai-labs> & "c:\Users\Larbi\Desktop\Intro to AI\Intro-Ai\ai-labs\.venv\Scripts\python.exe" "c:/Users/Larbi/Desktop/Intro to AI/Intro-Ai/ai-labs/environment_test.py"
+==================================================
+LAB 0: ENVIRONMENT VERIFICATION
+==================================================
+✅ Python Version: 3.14.2
+✅ OS: Windows 11
+✅ NumPy: 2.4.6
+✅ Pandas: 3.0.3
+✅ Matplotlib: 3.10.9
+✅ Seaborn: 0.13.2
+✅ Virtual Environment: Active (C:\Users\Larbi\Desktop\Intro to AI\Intro-Ai\ai-labs\.venv)
+==================================================
+(ai-labs) PS C:\Users\Larbi\Desktop\Intro to AI\Intro-Ai\ai-labs> where python
+(ai-labs) PS C:\Users\Larbi\Desktop\Intro to AI\Intro-Ai\ai-labs> 
